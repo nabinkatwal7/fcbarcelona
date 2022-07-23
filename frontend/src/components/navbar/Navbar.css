@@ -1,0 +1,25 @@
+.nav{
+    position: fixed;
+    top: 0;
+    background-color: #0A0927;
+    color: #fff;
+    width: 100%;
+    margin: auto;
+    padding: 5px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 3px;
+}
+
+.top .logo-img{
+    width: 20px; 
+    height: 20px;
+}
+
+.logo-div{
+    display: flex;
+    flex-direction: column;
+}
